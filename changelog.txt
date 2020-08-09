@@ -1,0 +1,3 @@
+All detailed changes will be made here:
+
+8/8/20: Repo started, testing git pull/push to make sure no merge conflicts
